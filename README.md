@@ -1,12 +1,6 @@
-# website![bobaw (1)](https://github.com/user-attachments/assets/2586a7dc-73fa-4fd7-a4f0-5f1e1a9e9eba)
-[menu.html](https://github.com/user-attachments/files/25316281/menu.html)
+![bobaw (1)](https://github.com/user-attachments/assets/c25f1e50-7201-48f0-8c46-f610eb66a601)
+[index (1).html](https://github.com/user-attachments/files/25316312/index.1.html)
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8"
-    <title>Boba Menu</title>
-    <link rel="stylesheet" href="style.css">
-</head>[index (1).html](https://github.com/user-attachments/files/25316283/index.1.html)<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8"
@@ -25,7 +19,13 @@
 
 </body>
 </html>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"
+    <title>Boba Menu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 <body>
  
     <div class="menu-item">
@@ -46,4 +46,47 @@
         <a href="index.html" class="btn"></a>
     </div>
 </body>
-</html>
+</html> 
+[menu.html](https://github.com/user-attachments/files/25316314/menu.html)
+[style.css](https://github.com/user-attachments/files/25316315/style.css)* body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #fff7f2;
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+}
+
+.hero.img{
+    width: 300px;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn.hover {
+    background: #ff6f6f;
+}
+
+.menu-container {
+    text-align: center;
+    padding: 40px;
+}
+
+.menu-item{
+    background: white;
+    margin: 15px auto;
+    width: 250px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rga(0,0,0,0.1);
+}
+
+![bobaw (1)](https://github.com/user-attachments/assets/0b4e657e-a412-4c6b-b647-1da13396a5e7)
+
