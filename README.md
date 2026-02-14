@@ -85,8 +85,5 @@
     margin: 15px auto;
     width: 250px;
     border-radius: 15px;
-    box-shadow: 0 0 10px rga(0,0,0,0.1);
-}
 
-![bobaw (1)](https://github.com/user-attachments/assets/0b4e657e-a412-4c6b-b647-1da13396a5e7)
 
